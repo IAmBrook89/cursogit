@@ -11,8 +11,22 @@
 //git remote add origin "Url del repo" --agrega el repo remoto correspondiente
 //git push -u origin main --pushea el contenido al repo, git se va a fijar cada vez que haces un push va a pedir las credenciales de usuario, estando ya logueado y diciendo -u ya al estar logueado va a omitir el paso de las credenciales por q ya las tiene
 //git push --intenta realizar el push, se pediran credenciales
-//git branch --devuelve la rama donde estamos trabajando
+//git branch --devuelve la ramas existentes, la rama donde estoy parado tendra un asterisco y aparecera en color verde
+//git branch -M "nombre elegido" --permite renombrar la rama, tiene que ser antes de hacer push
+//git push origin master(nombre de la rama) -- realiza el push al repo remoto
+//npm init -- al igual que con git, inicializa un proyecto node en el folder actual, hay que completar los datos de la config
+// --nombre --version declarada para el proyecto(en caso de tener ya una version anterior) -- una descripcion --el punto de entrada(el archivo de inicio, puede ser server.js o cualquier otro archivo) -- test command -- git repository, ahi podemos poner el repo(URL) del proyecto --keywords --autor del proyecto --licencia que usaras el repo si es que queremos --  tras una confirmacion creara el archivo
+
+
+//npm install nombre de la libreria a instalar --el gestor de paquetes instalara lo que le pidamos
+//npm start -- va a iniciar lo que tenga configurado
+//Ctrl+c -- Corta le Ejecucion del servidor(la Consola queda inabilitada cuando el servidor esta activo)
+//en git ignore podemos agregar lo que queremos que git ignore para subir al repo, se puede agregar el nombre del archivo, /carpetas a ignorar y tmb por extension, por ej *.txt - Ejemplo  index.js -- /node_modules -- (Asterisco) *.txt
 //
 //
 //
 //
+//
+//
+//
+
