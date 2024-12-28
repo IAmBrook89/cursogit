@@ -25,6 +25,9 @@
 //por defecto git ignora las carpetas vacias, creando en dichas carpetas un archivo llama .gitkeep hara que git ya realize el trackeo de esas carpetas
 //
 //
+//git branch -l --lista las ramas que nosotros tenemos
+//git branch "nombre de la rama" --asi se crea una rama nueva, se crea una copia exacta en este punto de la rama master
+//git checkout "nombre de la rama" --cambia de la rama actual a la rama seleccionada
 //
 //
 //
