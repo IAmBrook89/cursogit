@@ -22,7 +22,7 @@
 //npm start -- va a iniciar lo que tenga configurado
 //Ctrl+c -- Corta le Ejecucion del servidor(la Consola queda inabilitada cuando el servidor esta activo)
 //en git ignore podemos agregar lo que queremos que git ignore para subir al repo, se puede agregar el nombre del archivo, /carpetas a ignorar y tmb por extension, por ej *.txt - Ejemplo  index.js -- /node_modules -- (Asterisco) *.txt
-//
+//por defecto git ignora las carpetas vacias, creando en dichas carpetas un archivo llama .gitkeep hara que git ya realize el trackeo de esas carpetas
 //
 //
 //
