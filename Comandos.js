@@ -28,7 +28,7 @@
 //git branch -l --lista las ramas que nosotros tenemos
 //git branch "nombre de la rama" --asi se crea una rama nueva, se crea una copia exacta en este punto de la rama master
 //git checkout "nombre de la rama" --cambia de la rama actual a la rama seleccionada
-//
+//git log --oneline --decorate --all --graph -- da informacion general de los comit ademas muestra las bifuraciones
 //
 //
 //
