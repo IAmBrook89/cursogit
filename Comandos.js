@@ -24,6 +24,13 @@
 //en git ignore podemos agregar lo que queremos que git ignore para subir al repo, se puede agregar el nombre del archivo, /carpetas a ignorar y tmb por extension, por ej *.txt - Ejemplo  index.js -- /node_modules -- (Asterisco) *.txt
 //por defecto git ignora las carpetas vacias, creando en dichas carpetas un archivo llama .gitkeep hara que git ya realize el trackeo de esas carpetas
 //
+//git branch -l --lista las ramas que nosotros tenemos
+//git branch "nombre de la rama" --asi se crea una rama nueva, se crea una copia exacta en este punto de la rama master
+//git checkout "nombre de la rama" --cambia de la rama actual a la rama seleccionada
+//git log --oneline --decorate --all --graph -- da informacion general resumida de los comit ademas muestra las bifuraciones
+//
+//node --watch "nombre de archivo(server.js)" -- reinicia el servidor para hacer seguimiento del archivo
+//npm run dev(en este caso dev es un comando pre configurado en el pakage debajo del npm start)
 //
 //git branch -l --lista las ramas que nosotros tenemos
 //git branch "nombre de la rama" --asi se crea una rama nueva, se crea una copia exacta en este punto de la rama master
@@ -32,4 +39,5 @@
 //
 //
 //
+
 

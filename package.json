@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/IAmBrook89/cursogit#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "hbs": "^4.2.0",
+    "i": "^0.3.7",
+    "mongoose": "^8.9.3"
   }
 }
