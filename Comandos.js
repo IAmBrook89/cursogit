@@ -40,7 +40,7 @@
 //git branch -D 'nombre rama' -- Elimina la rama seleccionada de forma local, no remota
 //git remote rm 'nombre de la rama' -- Elimina la rama de manera Remota(no se logro hacer funcionar)
 //git push origin --delete 'nombre de la rama' -- Elimina la rama Remota
-//
+//git clone "url del repo" --clonar un repositorio, recordar pararse en la carpeta aparte para clonar el repo, se puede hacer con cd "ruta de la carpeta"
 //
 //
 //
