@@ -36,8 +36,14 @@
 //git branch "nombre de la rama" --asi se crea una rama nueva, se crea una copia exacta en este punto de la rama master
 //git checkout "nombre de la rama" --cambia de la rama actual a la rama seleccionada
 //git log --oneline --decorate --all --graph -- da informacion general de los comit ademas muestra las bifuraciones
+//git merge 'nombre de la rama' -- estando parados en la rama donde queremos integrar los cambios, le damos el nombre de la rama a in tegrar, en este caso nos situacion en la rama master que es la principal, le decimos que integre los cambios en los que trabajamos en la rama secundaria
+//git branch -D 'nombre rama' -- Elimina la rama seleccionada de forma local, no remota
+//git remote rm 'nombre de la rama' -- Elimina la rama de manera Remota(no se logro hacer funcionar)
+//git push origin --delete 'nombre de la rama' -- Elimina la rama Remota
 //
 //
 //
+//
+
 
 
