@@ -27,6 +27,14 @@
 //git branch -l --lista las ramas que nosotros tenemos
 //git branch "nombre de la rama" --asi se crea una rama nueva, se crea una copia exacta en este punto de la rama master
 //git checkout "nombre de la rama" --cambia de la rama actual a la rama seleccionada
+//git log --oneline --decorate --all --graph -- da informacion general resumida de los comit ademas muestra las bifuraciones
+//
+//node --watch "nombre de archivo(server.js)" -- reinicia el servidor para hacer seguimiento del archivo
+//npm run dev(en este caso dev es un comando pre configurado en el pakage debajo del npm start)
 //
 //
+//
+//
+//
+
 
