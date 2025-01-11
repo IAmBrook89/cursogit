@@ -41,6 +41,14 @@
 //git remote rm 'nombre de la rama' -- Elimina la rama de manera Remota(no se logro hacer funcionar)
 //git push origin --delete 'nombre de la rama' -- Elimina la rama Remota
 //git clone "url del repo" --clonar un repositorio, recordar pararse en la carpeta aparte para clonar el repo, se puede hacer con cd "ruta de la carpeta"
+//git pull origin master -- realiza el pull para actualizar el repo local con el que estamos trabajando desde el repo remoto
+//git grep "dato" 'archivo.extension'-- busca un dato dentro de un archivo especifico
+//
+//
+//
+//
+//
+//
 //
 //
 //
